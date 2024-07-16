@@ -1,4 +1,4 @@
-# 💫 Atualmente:
+# 💫 Atualmente...
 🐍 Atualmente estou estudando Python<br>📩 Estou em busca do meu primeiro estágio
 
 
