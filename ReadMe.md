@@ -2,7 +2,7 @@
 🐍 Atualmente estou estudando Python<br>📩 Estou em busca do meu primeiro estágio
 
 
-## 🌐 aMídias Sociais:
+## 🌐 Mídias Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gugarciac/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-garcia-9012a2305/) 
 
 💻 Conhecimentos:
